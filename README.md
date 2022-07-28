@@ -6,8 +6,8 @@
 
 * HTML版: TBA
 * PDF版: TBA
-* Colab版: TBA
-* Jupyer版: TBA(ZIP)
+* Google colab版: 製作中
+* Jupyter Notebook版: TBA(ZIP)
   * ローカルでipynbを実行するためのファイル一式．
 
 ## 管理ポリシー
