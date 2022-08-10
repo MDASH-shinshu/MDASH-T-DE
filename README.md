@@ -4,11 +4,11 @@
 
 ## 教材形式
 
-* HTML版: TBA
-* PDF版: TBA
 * Google colab版: 製作中
-* Jupyter Notebook版: TBA(ZIP)
+* Jupyter Notebook版: TBA(colab版をZIPすれば良い仕様にする)
   * ローカルでipynbを実行するためのファイル一式．
+* PDF版: TBA
+* HTML版: TBA
 
 ## 目次
 
