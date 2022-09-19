@@ -4,7 +4,7 @@
 
 ## eALPSコース
 
-学部・研究科共通 > データエンジニアリング(DE)基礎
+学部・研究科共通 > データエンジニアリング(DE)基礎(T) ※年度で更新されない場所で設置してある
 
 * https://lms.ealps.shinshu-u.ac.jp/common/course/view.php?id=147
 
