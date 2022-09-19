@@ -63,4 +63,10 @@ Jupyter Notebook版はZIP圧縮ファイルとすること．
 
 ## memo
 
+## 数理DS コア3科目のeALPS URL
+
+* DS基礎 https://lms.ealps.shinshu-u.ac.jp/common/course/view.php?id=146
+* DE基礎 https://lms.ealps.shinshu-u.ac.jp/common/course/view.php?id=147
+* AI基礎 https://lms.ealps.shinshu-u.ac.jp/common/course/view.php?id=148
+
 * TBA
