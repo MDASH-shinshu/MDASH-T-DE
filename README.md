@@ -1,11 +1,13 @@
-# データエンジニアリング(DE)基礎（工学部） の教材
+# データエンジニアリング(DE)基礎（工学部）
 
-信州大学における[「データエンジニアリング(DE)基礎（工学部）」](https://lms.ealps.shinshu-u.ac.jp/common/course/view.php?id=147)の教材を提供する公開リポジトリ．
+信州大学[「データエンジニアリング(DE)基礎（工学部）」](https://lms.ealps.shinshu-u.ac.jp/common/course/view.php?id=147)の教材提供 公開リポジトリ
 
 ## 教材形式
 
-基本的に，Google colab版をmasterとしてから，Jupyter Notebook版をSlide指定で制作し，
-その後PDF版とReveal.js slides版をエクスポートする．
+基本的に，Google colab版をmasterとしてから，Jupyter Notebook版を調整する．
+その後，Slide指定でRISEの動作を確認し，印刷プレビュー経由でPDF保存する．
+またReveal.js slides版をエクスポートする．
+Jupyter Notebook版はZIP圧縮ファイルとすること．
 
 * Google colab版: 直接colab環境で実行できる形式（変更したければ個々人のGoogleドライブへコピーが必要）
 * Jupyter Notebook版: ローカルでipynbを実行するためのファイル一式 ZIPで固める
