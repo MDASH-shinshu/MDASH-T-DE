@@ -6,7 +6,7 @@
 
 学部・研究科共通 > データエンジニアリング(DE)基礎
 
-*https://lms.ealps.shinshu-u.ac.jp/common/course/view.php?id=147
+* https://lms.ealps.shinshu-u.ac.jp/common/course/view.php?id=147
 
 
 ## 教材形式
