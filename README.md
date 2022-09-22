@@ -1,6 +1,13 @@
 # データエンジニアリング(DE)基礎（工学部）
 
-信州大学[「データエンジニアリング(DE)基礎（工学部）」](https://lms.ealps.shinshu-u.ac.jp/common/course/view.php?id=147)の教材提供 公開リポジトリ
+信州大学「データエンジニアリング(DE)基礎（工学部）」 教材リポジトリ
+
+## eALPSコース
+
+学部・研究科共通 > データエンジニアリング(DE)基礎(T) ※年度で更新されない場所で設置してある
+
+* https://lms.ealps.shinshu-u.ac.jp/common/course/view.php?id=147
+
 
 ## 教材形式
 
@@ -55,5 +62,11 @@ Jupyter Notebook版はZIP圧縮ファイルとすること．
 * 演習3
 
 ## memo
+
+## 数理DS コア3科目のeALPS URL
+
+* DS基礎 https://lms.ealps.shinshu-u.ac.jp/common/course/view.php?id=146
+* DE基礎 https://lms.ealps.shinshu-u.ac.jp/common/course/view.php?id=147
+* AI基礎 https://lms.ealps.shinshu-u.ac.jp/common/course/view.php?id=148
 
 * TBA
