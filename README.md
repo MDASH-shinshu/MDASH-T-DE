@@ -11,15 +11,17 @@
 
 ## 教材形式
 
-基本的に，Google colab版をmasterとしてから，Jupyter Notebook版を調整する．
-その後，Slide指定でRISEの動作を確認し，印刷プレビュー経由でPDF保存する．
-またReveal.js slides版をエクスポートする．
-Jupyter Notebook版はZIP圧縮ファイルとすること．
-
 * Google colab版: 直接colab環境で実行できる形式（変更したければ個々人のGoogleドライブへコピーが必要）
 * Jupyter Notebook版: ローカルでipynbを実行するためのファイル一式 ZIPで固める
 * PDF版: Jupyter Notebook版からのPDFエクスポート (PDF)
 * HTML版: Jupyter Notebook版(Slide指定あり）からのReveal.js slides版をエクスポート (HTML)
+
+## GitHubからeALPSへのデプロイ方法
+
+1. 基本的に，Google colab版をmasterとしてから，Jupyter Notebook版としてコピー後 調整する． (.ipynb)
+2. Jupyter Notebook : Slide指定でRISEの動作を確認後， Reveal.js slides版をエクスポートする． (.html)
+3. Jupyter Notebook : 印刷プレビュー経由でPDF保存する．(.pdf)
+4. Jupyter Notebook版はZIP圧縮ファイルとすること．(.ipynb ⇒ .zip)
 
 ## 目次
 
