@@ -84,4 +84,7 @@
 * DE基礎 https://lms.ealps.shinshu-u.ac.jp/common/course/view.php?id=147
 * AI基礎 https://lms.ealps.shinshu-u.ac.jp/common/course/view.php?id=148
 
-* TBA
+## 学外連携・その他 eALPS URL
+
+https://lms.ealps.shinshu-u.ac.jp/other/course/index.php?categoryid=15
+
