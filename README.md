@@ -86,5 +86,9 @@
 
 ## 学外連携・その他 eALPS URL
 
+* 産学連携 / デジタル人材育成共同研究講座
 https://lms.ealps.shinshu-u.ac.jp/other/course/index.php?categoryid=15
+
+* データエンジニアリング概論
+https://lms.ealps.shinshu-u.ac.jp/other/course/view.php?id=88
 
