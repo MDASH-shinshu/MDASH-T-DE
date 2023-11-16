@@ -7,14 +7,14 @@
 * Google colab版: 直接colab環境で実行できる形式（変更したければ個々人のGoogleドライブへコピーが必要）
 * HTML版: Jupyter Notebook版からのHTMLエクスポート (HTML)
 * PDF版: Jupyter Notebook版からのPDFエクスポート (PDF)
-* Reveal.js版: Jupyter Notebook版(Slide指定あり）からのReveal.js slides版をエクスポート (HTML)
+* Reveal.js版: Jupyter Notebook版（Slide指定あり）からのReveal.js slides版をエクスポート (HTML)
 
 ## GitHubからeALPSへのデプロイ方法
 
 1. 基本的に，Google colab版をmasterとしてから，Jupyter Notebook版としてコピー後 調整する． (.ipynb)
 2. Jupyter Notebook : 印刷プレビュー経由でPDF保存する．(.pdf)
 3. Jupyter Notebook : HTML版をエクスポートする． (.html)
-4. Jupyter Notebook : Slide指定でRISEの動作を確認後， Reveal.js slides版をエクスポートする． (.slides.html) https://revealjs.com/
+4. Jupyter Notebook : Slide指定でRISEの動作を確認後， Reveal.js slides版をエクスポートする． (.slides.html) <https://revealjs.com/>
 
 ## 目次
 
@@ -69,15 +69,15 @@
 
 ## 数理DS コア3科目（年度更新されない版） URL ※終息
 
-* DS基礎 https://lms.ealps.shinshu-u.ac.jp/common/course/view.php?id=146
-* DE基礎 https://lms.ealps.shinshu-u.ac.jp/common/course/view.php?id=147
-* AI基礎 https://lms.ealps.shinshu-u.ac.jp/common/course/view.php?id=148
+* DS基礎 <https://lms.ealps.shinshu-u.ac.jp/common/course/view.php?id=146>
+* DE基礎 <https://lms.ealps.shinshu-u.ac.jp/common/course/view.php?id=147>
+* AI基礎 <https://lms.ealps.shinshu-u.ac.jp/common/course/view.php?id=148>
 
 ## 工学部 学部共通科目 データサイエンス科目（2023 R5年度版）　URL
 
-* DS基礎(2023) https://lms.ealps.shinshu-u.ac.jp/2023/t/course/view.php?id=413
-* DE基礎(2023) https://lms.ealps.shinshu-u.ac.jp/2023/t/course/view.php?id=414
-* AI基礎(2023) https://lms.ealps.shinshu-u.ac.jp/2023/t/course/view.php?id=415
+* DS基礎(2023) <https://lms.ealps.shinshu-u.ac.jp/2023/t/course/view.php?id=413>
+* DE基礎(2023) <https://lms.ealps.shinshu-u.ac.jp/2023/t/course/view.php?id=414>
+* AI基礎(2023) <https://lms.ealps.shinshu-u.ac.jp/2023/t/course/view.php?id=415>
 
 
 ## 学外連携・その他 eALPS URL
@@ -85,29 +85,29 @@
 ### 経産省 共同研究講座
 
 * 産学連携 / デジタル人材育成共同研究講座
-https://lms.ealps.shinshu-u.ac.jp/other/course/index.php?categoryid=15
+<https://lms.ealps.shinshu-u.ac.jp/other/course/index.php?categoryid=15>
 
 * データサイエンス概論
-https://lms.ealps.shinshu-u.ac.jp/other/course/view.php?id=82
+<https://lms.ealps.shinshu-u.ac.jp/other/course/view.php?id=82>
 * データエンジニアリング概論
-https://lms.ealps.shinshu-u.ac.jp/other/course/view.php?id=88
+<https://lms.ealps.shinshu-u.ac.jp/other/course/view.php?id=88>
 * 機械学習概論I
-https://lms.ealps.shinshu-u.ac.jp/other/course/view.php?id=89
+<https://lms.ealps.shinshu-u.ac.jp/other/course/view.php?id=89>
 * AIエンジニアリング概論（佐藤真平先生）
-https://lms.ealps.shinshu-u.ac.jp/other/course/view.php?id=138
+<https://lms.ealps.shinshu-u.ac.jp/other/course/view.php?id=138>
 
 ### 工学教育寄附講座
 
 * 産学連携 / 工学教育寄附講座
-https://lms.ealps.shinshu-u.ac.jp/other/course/index.php?categoryid=16
+<https://lms.ealps.shinshu-u.ac.jp/other/course/index.php?categoryid=16>
 
 * データサイエンス概論
-https://lms.ealps.shinshu-u.ac.jp/other/course/view.php?id=96
+<https://lms.ealps.shinshu-u.ac.jp/other/course/view.php?id=96>
 * データエンジニアリング概論
-https://lms.ealps.shinshu-u.ac.jp/other/course/view.php?id=97
+<https://lms.ealps.shinshu-u.ac.jp/other/course/view.php?id=97>
 * データマイニングと機械学習概論
-https://lms.ealps.shinshu-u.ac.jp/other/course/view.php?id=98
+<https://lms.ealps.shinshu-u.ac.jp/other/course/view.php?id=98>
 * 画像認識へのAIの適用（宮尾先生）
-https://lms.ealps.shinshu-u.ac.jp/other/course/view.php?id=99
+<https://lms.ealps.shinshu-u.ac.jp/other/course/view.php?id=99>
 * AI技術による自然言語処理ツール入門（小形先生）
-https://lms.ealps.shinshu-u.ac.jp/other/course/view.php?id=100
+<https://lms.ealps.shinshu-u.ac.jp/other/course/view.php?id=100>
