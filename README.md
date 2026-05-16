@@ -127,4 +127,4 @@
 # jupyter notebook viewer
 
 * sec.3のノートブックを直接表示する例
-https://nbviewer.org/github/MDASH-shinshu/MDASH-T-DS/blob/main/3/3_data_search_and_visualization_colab.ipynb
+https://nbviewer.org/github/MDASH-shinshu/MDASH-T-DE/blob/main/3/3_data_collection_colab.ipynb
