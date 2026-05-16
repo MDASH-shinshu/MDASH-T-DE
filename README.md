@@ -89,6 +89,12 @@
 * DE基礎(2024) <https://lms.ealps.shinshu-u.ac.jp/2024/t/course/view.php?id=401>
 * AI基礎(2024) <https://lms.ealps.shinshu-u.ac.jp/2024/t/course/view.php?id=595>
 
+## 工学部 学部共通科目 データサイエンス科目（2025 R7年度版）　URL
+
+* DS基礎(2025)
+* DE基礎(2025) 
+* AI基礎(2025)
+
 ## 学外連携・その他 eALPS URL
 
 ### 経産省 共同研究講座
